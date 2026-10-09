@@ -30,7 +30,7 @@ opencode.cmd models
 
 Pastikan `opencode/big-pickle` tersedia.
 
-## 5. Menjalankan OpenCode pada Project Asli
+## 5. Menjalankan OpenCode pada Project 
 
 ```powershell
 opencode.cmd --model opencode/big-pickle
